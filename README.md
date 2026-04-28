@@ -31,7 +31,7 @@ Para ejecutar este proyecto, necesitas tener **Python 3.8+** instalado. Sigue es
 
     # En macOS/Linux
     python3 -m venv .
-    source venv/bin/activate
+    source ./bin/activate
     ```
 
 3.  **Instala Streamlit o bien mediante el archivo requirements.txt:**
