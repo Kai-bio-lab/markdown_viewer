@@ -19,7 +19,7 @@ Para ejecutar este proyecto, necesitas tener **Python 3.8+** instalado. Sigue es
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/tu-repositorio.git](https://github.com/tu-usuario/tu-repositorio.git)
+    git clone https://github.com/Kai-bio-lab/markdown_viewer.git
     cd tu-repositorio
     ```
 
