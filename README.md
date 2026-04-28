@@ -37,7 +37,9 @@ Para ejecutar este proyecto, necesitas tener **Python 3.8+** instalado. Sigue es
 3.  **Instala Streamlit o bien mediante el archivo requirements.txt:**
     ```bash
     pip install streamlit
+    ```
     o
+    ```
     pip install -r requirements.txt
     ```
 
