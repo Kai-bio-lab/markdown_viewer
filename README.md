@@ -20,14 +20,14 @@ Para ejecutar este proyecto, necesitas tener **Python 3.8+** instalado. Sigue es
 1.  **Clona el repositorio:**
     ```bash
     git clone https://github.com/Kai-bio-lab/markdown_viewer.git
-    cd tu-repositorio
+    cd markdown_viewer
     ```
 
 2.  **Crea un entorno virtual (Recomendado):**
     ```bash
     # En Windows
     python -m venv .
-    .\venv\Scripts\activate
+    .\Scripts\activate
 
     # En macOS/Linux
     python3 -m venv .
